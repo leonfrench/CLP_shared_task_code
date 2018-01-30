@@ -1,0 +1,6 @@
+nltk==3.2.4
+empath==0.89
+pandas==0.20.2
+numpy==1.12.1
+gensim==2.1.0
+beautifulsoup4==4.6.0
